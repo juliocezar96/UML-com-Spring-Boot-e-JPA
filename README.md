@@ -1,6 +1,6 @@
 # UML com Spring Boot e JPA
 
-## Prática do curso de UML  
+## Prática do curso Modelagem de Dados UML (Análise&Projeto Orientado a Objetos) 
   
 ### Tecnologias Ultilizadas para Implementar o caso de uso
 
